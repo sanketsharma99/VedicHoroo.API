@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyyPub.VedicHoroo", "MyyPub.VedicHoroo.csproj", "{0D033A8E-7915-49E9-BBD0-B4A1D7682D4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyyPub.Models", "..\MyyPub.Models\MyyPub.Models.csproj", "{8AC51D28-5A98-4E89-A37D-D81C8E0F7B0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D033A8E-7915-49E9-BBD0-B4A1D7682D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D033A8E-7915-49E9-BBD0-B4A1D7682D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D033A8E-7915-49E9-BBD0-B4A1D7682D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D033A8E-7915-49E9-BBD0-B4A1D7682D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AC51D28-5A98-4E89-A37D-D81C8E0F7B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC51D28-5A98-4E89-A37D-D81C8E0F7B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC51D28-5A98-4E89-A37D-D81C8E0F7B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC51D28-5A98-4E89-A37D-D81C8E0F7B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E1C0685-3DCA-42C3-9C68-0BD8BE514CA3}
+	EndGlobalSection
+EndGlobal
