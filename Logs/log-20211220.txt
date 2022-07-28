@@ -1,0 +1,5 @@
+2021-12-20T14:57:46.3953540+05:30  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2021-12-20T14:57:46.4053366+05:30  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2021-12-20T14:57:46.4058388+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2021-12-20T14:57:46.4058912+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2021-12-20T14:57:46.4059267+05:30  [INF] Content root path: "C:\Users\NagaRam\source\repos\VedicHoroo" (b5d60022)

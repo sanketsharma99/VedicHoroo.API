@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace VedicHoroo
+namespace MyyPub.VedicHoroo
 {
     public class Program
     {
