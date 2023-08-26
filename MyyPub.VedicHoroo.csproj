@@ -40,10 +40,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MyyPub.Models\MyyPub.Models.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Reference Include="MYPUBZ.Contracts">
       <HintPath>..\MYPUBZ\MYPUBZ.Contracts\bin\Release\netstandard2.0\MYPUBZ.Contracts.dll</HintPath>
     </Reference>
